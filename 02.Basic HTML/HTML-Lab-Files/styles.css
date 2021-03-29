@@ -1,0 +1,26 @@
+div {
+    display: inline-block;
+    width: 30%;
+    margin-left: 2%;
+    vertical-align: top;
+}
+
+span {
+    font-weight: bold;
+}
+
+h1 {
+    text-align: center;
+}
+
+th, td {
+    padding-right: 100px;
+}
+
+label {
+    display: block;
+}
+
+img {
+    width: 50%;
+}
